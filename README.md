@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SofiaMegh
-- 👀 I’m interested in AI
+- 👀 I’m an AI/ML Master's student
 - 🌱 I’m quite proficient in Python and currently learning PowerBI, DevOps, ML
 - 💞️ I’m looking to collaborate on Various Projects on AI
 - 📫 How to reach me through Github
